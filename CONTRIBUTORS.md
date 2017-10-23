@@ -16607,3 +16607,8 @@ to explore life. Also, Python and Django Developer
 - Place: Chennai, Tamil Nadu, India
 - Bio: son of a farmer, learning Swift & JavaScript, caffeine addict, learning web & app dev.
 - GitHub: [FarmboyRaghu](https://github.com/FarmboyRaghu)
+
+#### Name: [Jonathan](https://github.com/jonburleson)
+- Place: Minneapolis, MN, USA
+- Bio: Computer Science from University of Minnesota.
+- GitHub: [jonburleson](https://github.com/jonburleson)
